@@ -1,2 +1,2 @@
-# fededge2023.github.io
+# FedEdgeWeb.github.io
 Page for FedEdge
